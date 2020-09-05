@@ -1,0 +1,18 @@
+c:\users\peter\documents\visual studio 2013\Projects\X O Game\X O Game\bin\Debug\X O Game.exe.config
+c:\users\peter\documents\visual studio 2013\Projects\X O Game\X O Game\bin\Debug\X O Game.exe
+c:\users\peter\documents\visual studio 2013\Projects\X O Game\X O Game\bin\Debug\X O Game.pdb
+c:\users\peter\documents\visual studio 2013\Projects\X O Game\X O Game\obj\Debug\X O Game.csprojResolveAssemblyReference.cache
+c:\users\peter\documents\visual studio 2013\Projects\X O Game\X O Game\obj\Debug\X_O_Game.Form1.resources
+c:\users\peter\documents\visual studio 2013\Projects\X O Game\X O Game\obj\Debug\X_O_Game.Properties.Resources.resources
+c:\users\peter\documents\visual studio 2013\Projects\X O Game\X O Game\obj\Debug\X O Game.csproj.GenerateResource.Cache
+c:\users\peter\documents\visual studio 2013\Projects\X O Game\X O Game\obj\Debug\X O Game.exe
+c:\users\peter\documents\visual studio 2013\Projects\X O Game\X O Game\obj\Debug\X O Game.pdb
+E:\courses\work\C#\X O Game\X O Game\bin\Debug\X O Game.exe.config
+E:\courses\work\C#\X O Game\X O Game\obj\Debug\X O Game.exe
+E:\courses\work\C#\X O Game\X O Game\obj\Debug\X O Game.pdb
+E:\courses\work\C#\X O Game\X O Game\bin\Debug\X O Game.exe
+E:\courses\work\C#\X O Game\X O Game\bin\Debug\X O Game.pdb
+E:\courses\work\C#\X O Game\X O Game\obj\Debug\X O Game.csprojResolveAssemblyReference.cache
+E:\courses\work\C#\X O Game\X O Game\obj\Debug\X_O_Game.Form1.resources
+E:\courses\work\C#\X O Game\X O Game\obj\Debug\X_O_Game.Properties.Resources.resources
+E:\courses\work\C#\X O Game\X O Game\obj\Debug\X O Game.csproj.GenerateResource.Cache
